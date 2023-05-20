@@ -1,0 +1,6 @@
+[submodule "Front-End"]
+	path = Front-End
+	url = https://github.com/Tatiwel/defective-product.git
+[submodule "Back-End"]
+	path = Back-End
+	url = https://github.com/Tatiwel/DefectiveProduct.git
